@@ -8,7 +8,7 @@ https://lo.gic.li/viral-simple
 
 Several other simulations are available in the [Viraly](https://github.com/ghomem/viraly) repository.
 
-If you would like to see how a public health dashboard with country-wide data should look like during an epidemic, you might want to have a look here:
+If you would like to see how a public health dashboard with country-wide data should look like during a managed epidemic, you might want to have a look here:
 
 https://coviz.io
 
