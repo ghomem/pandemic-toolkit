@@ -2,7 +2,7 @@
 
 The pandemic that started 2020 was an outstanding event with negative public health and social impact in most - if not all - countries in the world. Such an unprecendent situation created a management challenge for health authorities and a story telling challenge for the media. None were prepared for the situation. After observing the problem for a while, I worked on putting together 3 repositories that might help interested citizens in gaining intuition about the complicated mechanisms of epidemic behaviour.
 
-If you would like to understand the dynamic of an uncontrolled epidemic, the relationship between R0 and other parameters, how many cases per day are expected for an virus with certain properties, which percentage of a population would be simultaneously infected, the effects of vaccination, etc... start with the following simulation:
+If you would like to understand the dynamic of an uncontrolled epidemic, the relationship between R0 and other parameters, how many cases per day are expected for a virus with certain properties, which percentage of a population would be simultaneously infected, the effects of vaccination, etc... start with the following simulation:
 
 https://lo.gic.li/viral-simple
 
