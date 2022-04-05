@@ -12,7 +12,7 @@ If you would like to see how a public health dashboard with country-wide data sh
 
 https://coviz.io
 
-Make sure you look into the Overall Mortality, which is a critical, but often overlooked, public health indicator. The source code is available at the [Coviz][https://github.com/ghomem/coviz] repository.
+Make sure you look into the Overall Mortality, which is a critical, but often overlooked, public health indicator. The source code is available at the [Coviz](https://github.com/ghomem/coviz) repository.
 
 If a beloved family member told you there is a miracle drug that cures Covid and the industry wants to hide from you, make sure you read the papers supporting such statements and double check the clinical trials numbers. Get clinical on the topic by visiting the following link:
 
